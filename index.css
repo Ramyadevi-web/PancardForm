@@ -1,0 +1,26 @@
+#heading {
+    background-color: rgb(170, 9, 9);
+    color : white;
+    text-align: center;
+   }
+  .boxes{
+    background-color: rgba(233, 230, 53, 0.829);
+    border : 1px solid grey;
+    display: flex;
+    flex-direction: row;
+  }
+  .astr{
+    color : red;
+  }
+  .smallbox{
+    background-color: rgba(233, 230, 53, 0.829);
+    border : 1px solid grey;
+    width: 20px;
+    height: 20px;
+  }
+   a{
+    color : rgba(255, 166, 0, 0.747)
+   }
+   .padding{
+    padding-right: 50px;
+   }
